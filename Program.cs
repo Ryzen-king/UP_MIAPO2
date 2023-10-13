@@ -8,7 +8,7 @@ MinMaxSort MinMaxSortFunctions = new MinMaxSort();
 BubbleSort BubbleSortFunctions = new BubbleSort();
 InsertionSort InsertionSortFunctions = new InsertionSort();
 
-
+//давайте жить дружно
 
 try
 {
