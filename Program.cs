@@ -9,6 +9,7 @@ BubbleSort BubbleSortFunctions = new BubbleSort();
 InsertionSort InsertionSortFunctions = new InsertionSort();
 
 
+
 try
 {
     Console.WriteLine("Введите количество элементов массива (не менее 100):");
